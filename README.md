@@ -1,7 +1,7 @@
 # Real-time-face-detection-with-GUI
 A application with face detection + smile detection + eyes blink detection using pyqt5
 
-## Setup and Installation
+## Setup and installation
 ```bash
 # create and activate new conda environment
 conda create --name GUI python=3.7
@@ -14,9 +14,12 @@ pip install sys opencv-python PyQt5 PyQt5-tools scipy numpy mediapipe imutils cm
 git clone https://github.com/Guimeng-Leo-Liu/Real-time-face-detection-with-GUI.git
 ```
 
+## Run program
+
 ```bash
 # lanuch GUI
 python main.py
+
 
 # run only detection models
 cd ./faceDetection/
