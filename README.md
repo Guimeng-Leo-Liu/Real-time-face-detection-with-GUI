@@ -12,7 +12,6 @@ pip install sys opencv-python PyQt5 PyQt5-tools scipy numpy mediapipe imutils cm
 
 # clone the repository
 git clone https://github.com/Guimeng-Leo-Liu/Real-time-face-detection-with-GUI.git
-cd ./DeFlow/
 ```
 
 ```bash
