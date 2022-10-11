@@ -3,6 +3,10 @@ A application with face detection + smile detection + eyes blink detection using
 
 This repository can achieve 70+FPS in a CPU-only environment
 
+
+**Watch our oral presentation:**  
+(https://www.bilibili.com/video/BV1Be4y1U7xg/?vd_source=780f68563562773e81e029d34afe9157)
+
 ## Setup and installation
 ```bash
 # create and activate new conda environment
