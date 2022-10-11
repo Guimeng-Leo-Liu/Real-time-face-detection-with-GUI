@@ -14,3 +14,12 @@ pip install sys opencv-python PyQt5 PyQt5-tools scipy numpy mediapipe imutils cm
 git clone https://github.com/Guimeng-Leo-Liu/Real-time-face-detection-with-GUI.git
 cd ./DeFlow/
 ```
+
+```bash
+# lanuch GUI
+python main.py
+
+# run only detection models
+cd ./faceDetection/
+python webcamFaceDetection.py
+```
