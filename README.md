@@ -1,6 +1,8 @@
 # Real-time-face-detection-with-GUI
 A application with face detection + smile detection + eyes blink detection using pyqt5
 
+This repository can achieve 70+FPS in a CPU-only environment
+
 ## Setup and installation
 ```bash
 # create and activate new conda environment
