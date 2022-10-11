@@ -11,6 +11,6 @@ conda activate GUI
 pip install sys opencv-python PyQt5 PyQt5-tools scipy numpy mediapipe imutils cmake boost dlib
 
 # clone the repository
-git clone https://github.com/volflow/DeFlow.git
+git clone https://github.com/Guimeng-Leo-Liu/Real-time-face-detection-with-GUI.git
 cd ./DeFlow/
 ```
